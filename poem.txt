@@ -6,5 +6,7 @@ Pink,
 Green,
 Yellow,
 Orange,
+White,
+Magenta
 Blue.
 These are the colors of rainbow and unicorn
