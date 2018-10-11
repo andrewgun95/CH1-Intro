@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn 
+The Rainbow and the Unicorn
 
 Purple,
 Red,
@@ -10,4 +10,4 @@ White,
 Magenta
 Blue.
 These are the colors of rainbow and unicorn.
-Ponies maybe is one of the type in unicorn speciment.
+Ponies maybe is one of the type in unicorn specimen.
